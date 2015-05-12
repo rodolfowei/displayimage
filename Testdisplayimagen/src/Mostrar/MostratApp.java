@@ -30,6 +30,8 @@ public class MostratApp {
 		System.out.println(imgd.rows());
 		System.out.println(imgd.cols());
 		
+		System.out.println("test");
+		
 		Mostrar_imagen.displayImage(imagen);
 		
 		//im.showImage(imgd);
